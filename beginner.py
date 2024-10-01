@@ -3,6 +3,6 @@ x=int(input("whats x? "))
 
 
 
-print(x)
+print(x +5)
 
 
