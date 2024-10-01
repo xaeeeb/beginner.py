@@ -1,2 +1,8 @@
-print("hello to my computer")
+x=int(input("whats x? "))
+
+
+
+
+print(x)
+
 
