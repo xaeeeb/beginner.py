@@ -1,8 +1,25 @@
-x=int(input("whats x? "))
+x = input("whats your name? ")
+
+x= x.strip()
+x=x.capitalize()   
+
+
+print(f"hello , {x}" )
+
+
+     
 
 
 
 
-print(x +5)
+
+
+
+
+
+
+
+
+
 
 
